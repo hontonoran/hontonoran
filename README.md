@@ -1,29 +1,65 @@
 # 🌸 Hi! My name is Anastasiia Kuzmina! 🌸
+💼 **Technical Analyst | Systems Integration | Automation Enthusiast**  
+🎓 Studying **Full-Stack Software Engineering (Computer Science)**  
 
-*Automation enthusiast | Script ninja | Lifelong learner*
-
-こんにちは! I'm Anastasiia — crafting automations with the calm focus of a sakura-blossom-watching samurai 🥷🌸  
-From wiring up calendar flows to building helpful scripts that talk to Jira and MS Apps — I love turning repetitive tasks into elegant, hands-free magic.
-
----
-
-### ⚔️ What I do
-
-- 🧩 Build and integrate automation workflows using Python, Power Automate, Azure Functions
-- 🗂️ Create tools to streamline onboarding, reporting, and cloud tasks
-- 🛠️ Collect small but mighty scripts to solve everyday operations pain points
-- 💡 Explore how thoughtful automation can free people to do meaningful work
+I bridge the gap between **business needs and technical implementation**.  
+My background combines hands-on technical support, process design, automation, and system integration — helping teams move from manual chaos to scalable solutions.
 
 ---
 
-### 🧘‍♀️ Currently learning
-- Power Automate (advanced flows, triggers, and API calls)
-- JIRA API Automation with Python
-- Microsoft Apps and Azure functions
+### 🌸 What I bring to business
+
+- 🌸 Strong experience in **system configuration & troubleshooting**
+- 🌸 Deep understanding of **how different systems integrate**
+- 🌸 Passion for **automation and process optimization**
+- 🌸 Ability to translate business needs into technical solutions
+- 🌸 Analytical thinking + real production experience since **2019**
 
 ---
 
-> _"A thousand scripts begin with a single line."_  
-> — Not Confucius, but close.
+### 🏢 Professional background
+
+- Started in IT in **2019** (technical support → team lead)
+- Led a **Helpdesk team**
+- Built:
+  - **Thousands of Jira automations** in multiple Jira projects (software, service desk)
+  - **Dozens of automated workflows in Power Automate**
+- Designed processes that reduced manual work and improved visibility
+
+I enjoy turning:
+> messy workflows → structured systems  
+> manual work → automation  
+> unclear requirements → actionable solutions  
+
+---
+
+### 🌸 What I’m learning now
+
+I’m currently studying **Full-Stack Software Engineering**, focusing on:
+
+- Backend logic & APIs  
+- Python automation scripts  
+- System integrations  
+- Databases & architecture basics  
+- Frontend fundamentals  
+
+This repository mostly contains 🌸 learning projects 🌸.
+
+
+---
+
+### Open to
+
+- Technical Analyst roles  
+- Integration / Automation projects  
+- Process design & optimization tasks  
+- Software Engineering opportunities  
+
+---
+
+### 🌸 Let’s connect
+
+If you're building systems that need structure, automation, or integration —  
+I'd love to talk.
 
 🌸Automate beautifully ✨🌸

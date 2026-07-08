@@ -22,9 +22,9 @@
 
 ## 🌸 Who I am
 
-Technical professional with **6+ years at Wirex** — growing from Helpdesk Agent to Helpdesk Team Lead to dedicated Technical Analyst. I've shipped systems that eliminated thousands of hours of manual work, built 15 BaaS portals end-to-end, and act as the technical bridge between business stakeholders and engineering teams.
+Technical professional with **6+ years at Wirex** — growing from Helpdesk Agent to Helpdesk Team Lead to dedicated Technical Analyst. Through persistent, thoughtful engineering I create business value by building BaaS portals end-to-end that are scalable and easy to update — shipping new ones at a pace of 1–2 per week. My systems don't stop at deployment: they integrate with existing tooling and automate themselves, while I act as the technical bridge between business stakeholders and engineering teams.
 
-Now adding software engineering to the toolkit: Python since 2024, JavaScript since 2020, and an MSc in Computer Science in progress since 2025.
+Now adding software engineering to the toolkit as part of my MSc in Computer Science (Software Engineering, full-stack track) in progress since 2025: Python since 2024, JavaScript since 2020, recently picked up TypeScript, and currently learning React.
 
 > I care about one thing: systems that actually work without someone babysitting them.
 
@@ -36,9 +36,9 @@ Outside of work: passionate cat person — which is also why one of my side proj
 
 <div align="center">
 
-| 6+ years | 2,000+ | 20+ | 15 | 5 |
+| 6+ years | 2,000+ | 20+ | 1–2/week | 5 |
 |:---:|:---:|:---:|:---:|:---:|
-| in IT | automations built | Jira portals administered | BaaS portals deployed | languages |
+| in IT | automations built | Jira portals administered | BaaS portals shipped | languages |
 
 </div>
 
@@ -63,40 +63,23 @@ Outside of work: passionate cat person — which is also why one of my side proj
 | **Freshdesk / Freshservice** | REST APIs, B2B portal setup, custom HTML/CSS/JS portal pages, chat widget |
 
 ### Systems Integration & BaaS
-- 15 BaaS portal deployments end-to-end — SSO auth flows, user access controls, service integrations
+- Scalable, easy-to-update BaaS portal deployments end-to-end, shipping 1–2 new portals per week — SSO auth flows, user access controls, service integrations
+- Built Azure Runbooks to automate portal operations:
+  - PowerShell runbook that auto-updates subscriber lists for product release mailing lists tied to specific BaaS portals
+  - Scheduled Python runbook that auto-provisions user access and updates request status end-to-end
 - Technical liaison: requirement translation → implementation spec → solution validation
 - REST API concepts, webhook setup, cross-system integration design
 
 ### Development
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-6DB33F?style=flat-square)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🐱 Desktop AI Companion
-> Electron 31 · Node.js · IPC · JSONL log parsing
-
-An animated pixel cat that lives on your desktop and **reacts to your AI coding sessions in real time** — Cursor, Claude Code, OpenAI Codex, Kiro. Includes a Pomodoro timer and health-break reminders.
-
-- Reads AI tool log files locally — no API keys, no network calls
-- Detects `thinking` / `working` / `complete` / `notification` states from JSONL event streams
-- HTTP API for custom tool integrations (`POST /agent-state`)
-- Built-in drag-and-drop animation pattern editor
-
-### 🧠 HONTONORAN — Personal LLM Wiki
-> Obsidian · Claude Code · Markdown · Git
-
-A compounding personal knowledge base built on Andrej Karpathy's LLM Wiki pattern. Raw sources compiled by Claude Code agents into a structured, cross-linked wiki — versioned in Git and read in Obsidian.
-
-- 56+ atomic notes across 6 projects; skill-driven pipeline (`/inbox` → `/wiki` → `/lint` → `/sync`)
-- Covers work tooling (Freshworks, Jira, Power Automate), development, prompt engineering, and meta-architecture
 
 ---
 
@@ -106,7 +89,7 @@ A compounding personal knowledge base built on Andrej Karpathy's LLM Wiki patter
 Aug 2019 ──► Helpdesk Agent, Wirex
 Jun 2021 ──► Helpdesk Team Lead, Wirex      (led team · 2,000+ automations · 20+ portals)
 Feb 2026 ──► Transition: Team Lead + Technical Analyst in parallel
-May 2026 ──► Technical Analyst, Wirex       (BaaS portals · SSO · stakeholder liaison)
+May 2026 ──► Technical Analyst, Wirex       (scalable BaaS portals · automation runbooks · SSO · stakeholder liaison)
 ```
 
 ---
@@ -118,8 +101,10 @@ May 2026 ──► Technical Analyst, Wirex       (BaaS portals · SSO · stakeh
 | **MSc Computer Science – Software Engineering** | Neoversity · Sep 2025 – 2027 (in progress) |
 | **Python** (self-study → formal) | Started Sep 2024 |
 | **JavaScript** (first exposure at work) | Since 2020 · Advanced JS in progress |
+| **TypeScript** | Recently picked up as part of MSc full-stack coursework |
+| **React** | Currently learning |
 | **BA Japanese Translation** | Kyiv National Linguistic University · 2013–2017 |
-| **Google Digital Leader Certification** | 2023 · Cloud & digital transformation fundamentals |
+| [<img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="40" alt="Google Cloud Digital Leader badge"/>](https://www.credly.com/earner/earned/badge/45cdd3b7-866c-412c-a729-cc7edce46739) **[Google Cloud Digital Leader Certification](https://www.credly.com/earner/earned/badge/45cdd3b7-866c-412c-a729-cc7edce46739)** | Issued 2023 · Renewed through 2027 · Cloud & digital transformation fundamentals |
 
 ---
 
